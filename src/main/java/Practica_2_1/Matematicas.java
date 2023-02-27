@@ -1,8 +1,6 @@
 package Practica_2_1;
 
-import java.util.Scanner;
-
-public class Ejercicio1 {
+public class Matematicas {
     /*
     Algoritmo 1: Aproximación a pi mediante Montecarlo
 Input: puntosTotales: cantidad de puntos a generar
